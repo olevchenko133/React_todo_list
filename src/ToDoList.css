@@ -1,0 +1,19 @@
+.ToDoList {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 1.2em;
+    background: #f9632f;
+    padding: 0 0 35px;
+    min-width: 306px;
+    color: #fff;
+    align-items: flex-start;
+}
+h1 {
+    text-align: center;
+    width: 100%;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}

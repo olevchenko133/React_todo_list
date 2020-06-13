@@ -1,0 +1,36 @@
+label {
+    width: 100%;
+    display: block;
+    text-align: left;
+    padding: 10px 0;
+    font-weight: 800;
+}
+input {
+    padding: 6px 8px;
+    font-size: 0.8em;
+    width: 50%;
+}
+button.CreateTodo {
+    padding: 10px 8px;
+    background: #3F51B5;
+    border: none;
+    color: #fff;
+    font-size: 0.8em;
+    font-weight: 600;
+}
+button {
+    background: #99d8e3;
+    font-size: 0.8em;
+    padding: 8px;
+    width: 40%;
+    border: none;
+    margin: 0 0 0 10px;
+}
+form {
+    width: 330px;
+    margin: auto;
+    text-align: center;
+    padding: 20px 20px 0;
+    display: flex;
+    flex-wrap: wrap;
+}

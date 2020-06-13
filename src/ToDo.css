@@ -1,0 +1,31 @@
+.completed{
+    /* color: lightseagreen; */
+    color:#cbe5ea;
+    text-decoration: line-through;
+}
+.ToDo {
+    display: flex;
+    list-style: none;
+    text-align: left;
+    margin-left: 0;
+    width: 330px;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: 600;
+    background: #fc7f54;
+}
+.Btns button {
+    /* background: #99d8e3; */
+    font-size: 0.8em;
+    padding: 8px;
+    background: #202020;
+    color: #fff;
+    border: none;
+    box-sizing: content-box;
+    border: none;
+    margin: 0 0 0 10px;
+}
+.Btns {
+    display: flex;
+}
